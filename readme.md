@@ -37,3 +37,6 @@ PacMania is a high-performance 3D implementation of the classic arcade game, bui
 | Space Bar | Jump |
 | `V` | Toggle Isometric Shear View |
 | `S` | Enable/Disable Sound |
+
+### Execute
+With live server exstension in Vs Code 
